@@ -20,3 +20,9 @@ HOW IT WORKS ?
 - The script then tries to compose a list(with stock details, volume chart and News) and send it as an e-mail.
 - I will cron this script so that, the script automatically fetches result for me at 11:00 AM and 2:00 PM each day.
 - From the e-mail result, you could analyse, which stock you could go 
+
+
+SOME ADDITIONS TO BE ADDED TO THIS PROJECT:
+- Update readme.md on how to run this
+- CSS
+- Apt search of stocks in moneycontrol, from rediffmoney
