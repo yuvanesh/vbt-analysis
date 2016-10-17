@@ -25,4 +25,5 @@ HOW IT WORKS ?
 SOME ADDITIONS TO BE ADDED TO THIS PROJECT:
 - Update readme.md on how to run this
 - CSS
+- code clean up
 - Apt search of stocks in moneycontrol, from rediffmoney
